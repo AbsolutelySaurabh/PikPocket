@@ -1,3 +1,3 @@
 # PikPocket
 
-Anti-PocketTheft android app.
+Anti-PocketTheft android app with awesome features.
